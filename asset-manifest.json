@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.6d43f6f1.chunk.css",
+    "main.js": "/memory-game/static/js/main.112eef16.chunk.js",
+    "main.js.map": "/memory-game/static/js/main.112eef16.chunk.js.map",
+    "runtime-main.js": "/memory-game/static/js/runtime-main.b717dcb7.js",
+    "runtime-main.js.map": "/memory-game/static/js/runtime-main.b717dcb7.js.map",
+    "static/js/2.e9984625.chunk.js": "/memory-game/static/js/2.e9984625.chunk.js",
+    "static/js/2.e9984625.chunk.js.map": "/memory-game/static/js/2.e9984625.chunk.js.map",
+    "index.html": "/memory-game/index.html",
+    "static/css/main.6d43f6f1.chunk.css.map": "/memory-game/static/css/main.6d43f6f1.chunk.css.map",
+    "static/js/2.e9984625.chunk.js.LICENSE.txt": "/memory-game/static/js/2.e9984625.chunk.js.LICENSE.txt",
+    "static/media/baby.d4f85216.png": "/memory-game/static/media/baby.d4f85216.png",
+    "static/media/brainy.850871cd.png": "/memory-game/static/media/brainy.850871cd.png",
+    "static/media/clumsy.b2016b95.png": "/memory-game/static/media/clumsy.b2016b95.png",
+    "static/media/cook.d16cac66.png": "/memory-game/static/media/cook.d16cac66.png",
+    "static/media/gargamel.9e1c11fc.png": "/memory-game/static/media/gargamel.9e1c11fc.png",
+    "static/media/handy.1f158d2e.png": "/memory-game/static/media/handy.1f158d2e.png",
+    "static/media/Result.scss": "/memory-game/static/media/mushroom.8348d850.png",
+    "static/media/papa.c32d6cb8.png": "/memory-game/static/media/papa.c32d6cb8.png",
+    "static/media/smurfette.90c33878.png": "/memory-game/static/media/smurfette.90c33878.png",
+    "static/media/index.css": "/memory-game/static/media/smurfs.bcd2e940.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b717dcb7.js",
+    "static/js/2.e9984625.chunk.js",
+    "static/css/main.6d43f6f1.chunk.css",
+    "static/js/main.112eef16.chunk.js"
+  ]
+}
