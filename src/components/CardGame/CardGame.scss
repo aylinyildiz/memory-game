@@ -1,0 +1,24 @@
+.card-container {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 33.7%;
+    margin-top: 5%;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+  }
+  
+  .game-info {
+    width: 100%;
+    text-align: center;
+    font-weight: 600;
+    span {
+      box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+      border-radius: 0.4em;
+      padding: 5px;
+      color: black;
+      font-size: 30px;
+      text-align: center;
+    }
+  }
+  
