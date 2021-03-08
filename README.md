@@ -1,4 +1,4 @@
-# Search bar project with Create React App
+# Memory card game project with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
