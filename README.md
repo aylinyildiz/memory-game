@@ -1,13 +1,18 @@
-# Memory card game project with Create React App
+# Memory Card Game :mushroom:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Memory card game built with ReactJS.
 
-## you can run:
+## Try it out:
+[Game](https://aylinyildiz.github.io/memory-game/)
 
-### git clone `https://github.com/aylinyildiz/memory-game.git`
 
-### `npm install`
 
-### `npm start`
+## Run the game:
+
+```
+git clone https://github.com/aylinyildiz/memory-game.git
+npm install`
+npm start`
+```
 
 
